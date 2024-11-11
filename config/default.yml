@@ -17,6 +17,7 @@ require:
 AllCops:
   Exclude:
     - "bin/*"
+    - "coverage/*"
     - "data/*"
     - "log/**/*"
 
