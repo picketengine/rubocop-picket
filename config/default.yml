@@ -20,6 +20,7 @@ AllCops:
     - "coverage/*"
     - "data/*"
     - "log/**/*"
+  TargetRubyVersion: 3.2
 
 Bundler/DuplicatedGem:
   Enabled: true
