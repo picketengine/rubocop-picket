@@ -1,0 +1,1 @@
+# Picket Ruby Style Guide

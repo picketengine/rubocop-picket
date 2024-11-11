@@ -1,0 +1,7 @@
+inherit_from:
+  - config/default.yml
+
+Naming/FileName:
+  Exclude:
+    - "lib/rubocop-picket.rb"
+    - "lib/rubocop-picket-rails.rb"
