@@ -12,6 +12,15 @@ require:
   - rubocop-rails
   - rubocop-rails-accessibility
 
+AllCops:
+  Exclude:
+    - "**/test/dummy/bin/*"
+    - "**/test/dummy/db/*schema.rb"
+    - "**/test/dummy/log/**/*"
+    - "**/test/dummy/public/**/*"
+    - "**/test/dummy/storage/**/*"
+    - "**/test/dummy/tmp/**/*"
+
 # rubocop-capybara
 
 Capybara:
