@@ -15,7 +15,7 @@ require:
 AllCops:
   Exclude:
     - "**/test/dummy/bin/*"
-    - "**/test/dummy/db/*schema.rb"
+    - "**/test/dummy/db/*schema*.rb"
     - "**/test/dummy/log/**/*"
     - "**/test/dummy/public/**/*"
     - "**/test/dummy/storage/**/*"
