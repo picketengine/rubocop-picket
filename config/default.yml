@@ -849,12 +849,14 @@ Naming/FileName:
     - CODE_OF_CONDUCT.md
     - CONTRIBUTING.md
     - DEPLOYING.md
+    - DEVELOPMENT.md
     - RDOC_MAIN.md
     - README.md
     - RELEASING.md
     - ROADMAP.md
     - SECURITY.md
     - STYLE_GUIDE.md
+    - TESTING.md
     - VISION.md
 
 Naming/HeredocDelimiterCase:
